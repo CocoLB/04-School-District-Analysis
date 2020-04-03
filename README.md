@@ -8,7 +8,7 @@ In an effort to showcase trends in school performance and making decisions regar
       - by schools - and find the hiughest and lowest performing schools
       - by Grades
       - by School spending per student
-      - by Svhool Size
+      - by School Size
       - by Schoolo types
 
 ## Resources
@@ -24,6 +24,9 @@ The board was provided with all the summaries by district, shcool, grades, spend
 The school/student data was incorrect, you need to replace the math/reading scores for each student in 9th Grade at Thomas High School by NaN, and recalculate/generate all the summaries, and see how this change impacted them.
 
 ## Challenge Summary
-The District Summary hasn't been affected (as we formatted the averages and percentages) as there were far more students whose scores haven't changed. Obviously, in the School Summary, the Thomas High School row has been afftected - the averages for math and reading are still very similar, but the percentages for passing have lowered by 30%. Thomas High School is not one of the 5 highest performing schools anymore, but is not one of the 5 lowest performing ones.
-
-
+<img src="Images/Summary_challenge.png" width="250">
+- The District Summary hasn't been affected - as we formatted the averages and percentages, and there are far more students whose scores haven't changed.
+- Obviously, in the School Summary, the Thomas High School row has been afftected - the averages for math and reading  are still very similar (and would have only changed a tenth if formnatted), but the percentages for passing have lowered by 30%. Thomas High School is not one of the 5 highest performing schools anymore, but the 5 lowest performing ones remain the same ones.---
+- In the Spending Summary, only the 630-644 bin has been affected as we se the passing percentages have all lowered by around 6-7%.
+- In the Size Summary, only the medium (1000-2000) bin has been affected and the passing percentages lowered by 6%.
+- In the Type Summary, only the Charter type has been affected and the passing percentages lowered by 3-4%
