@@ -19,3 +19,9 @@ In an effort to showcase trends in school performance and making decisions regar
 The board was provided with all the summaries by district, shcool, grades, spending, size, and types, while learning about the highest and lowest performing schools.
 
 <img src="Images/Summary.png" width="250">
+
+## Challenge Overview
+The school/student data was incorrect, you need to replace the math/reading scores for each student in 9th Grade at Thomas High School by NaN, and recalculate/generate all the summaries, and see how this change impacted them.
+
+## Challenge Summary
+
