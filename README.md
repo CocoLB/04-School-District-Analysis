@@ -16,3 +16,4 @@ In an effort to showcase trends in school performance and making decisions regar
 - Software: Python 3.7.6, Anaconda 4.8.3, Jupyter Notebook, Pandas Library
 
 ## Summary
+<img src="images/district summary.jpg" width="250">
