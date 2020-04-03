@@ -18,15 +18,22 @@ In an effort to showcase trends in school performance and making decisions regar
 ## Summary
 The board was provided with all the summaries by district, shcool, grades, spending, size, and types, while learning about the highest and lowest performing schools.
 
-<img src="Images/Summary.png" width="300">
+<img src="Images/Summary.png" width="350">
 
 ## Challenge Overview
 The school/student data was incorrect, you need to replace the math/reading scores for each student in 9th Grade at Thomas High School by NaN, and recalculate/generate all the summaries, and see how this change impacted them.
 
 ## Challenge Summary
-<img src="Images/Summary_challenge.png" width="300">
+<img src="Images/Summary_challenge.png" width="350">
+
 - The District Summary hasn't been affected - as we formatted the averages and percentages, and there are far more students whose scores haven't changed.
+
 - Obviously, in the School Summary, the Thomas High School row has been afftected. The averages for math and reading  are still very similar (and would have only changed a tenth if formnatted), but the percentages for passing have lowered by 30%. Thomas High School is not one of the 5 highest performing schools anymore, but the 5 lowest performing ones remain the same ones.
-- In the Spending Summary, only the 630-644 bin has been affected as we se the passing percentages have all lowered by around 6-7%.
-- In the Size Summary, only the medium (1000-2000) bin has been affected and the passing percentages lowered by 6%.
-- In the Type Summary, only the Charter type has been affected and the passing percentages lowered by 3-4%
+
+- In the Spending Summary, only the 630-644 bin has been affected and the passing percentages have all lowered by around 6-7%. Same formatted averages.
+
+- In the Size Summary, only the medium (1000-2000) bin has been affected and the passing percentages have lowered by 6%.. Same formatted averages.
+
+- In the Type Summary, only the Charter type has been affected and the passing percentages have lowered by 3-4%.. Same formatted averages.
+
+- The Math/Reading summaries by grade haven't changed except for Thomas High School 9th grade where there's no score
