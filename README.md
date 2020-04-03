@@ -17,4 +17,5 @@ In an effort to showcase trends in school performance and making decisions regar
 
 ## Summary
 The board was provided with all the summaries by district, shcool, grades, spending, size, and types, while learning about the highest and lowest performing schools.
+
 <img src="Images/Summary.png" width="250">
